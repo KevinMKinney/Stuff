@@ -1,10 +1,4 @@
-/// @desc close map
+/// @desc open map
 
-if (global.backM = 0)
-{
-	image_index = 0;
-}
-else
-{
-	global.backI = 0;
-}
+image_index = 1;
+global.backM = 1;
